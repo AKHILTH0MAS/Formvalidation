@@ -1,0 +1,26 @@
+.container{
+
+    background-color: #160040 ;
+    border: 1px solid black;
+    text-align: center;
+    width: 320px;
+    margin: auto;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 20px;
+    box-shadow: #153462;
+    }
+body{
+    background-color: #171515;
+}
+h1,p{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.container:hover{
+    background-color: #0F044C;
+}
